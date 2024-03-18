@@ -2,9 +2,8 @@
 
 AIM: To classify news articles into "fake" or "real".
 
-* Collect and preprocess data
-* Determine a label
-* Split data into training and test sets
+* Read and preprocess data
+* Determine a label and split data into training and test sets
 * Extract features from the text to help predict the label (Use bag-of-words models or tf-idf features)
 * Evaluate trained model using a test set
 
